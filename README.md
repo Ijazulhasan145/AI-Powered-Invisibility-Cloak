@@ -1,4 +1,4 @@
-# 🧥 Invisibility Cloak using Python, OpenCV & NumPy
+#  Invisibility Cloak using Python, OpenCV & NumPy
 
 This project demonstrates the **invisibility cloak effect** (popular from Harry Potter 🪄) using **Python, OpenCV, and NumPy**.  
 It applies computer vision techniques to replace a specific color (like red) with the background, making objects appear invisible.  
